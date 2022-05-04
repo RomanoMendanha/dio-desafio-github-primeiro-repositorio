@@ -1,0 +1,107 @@
+Projetos ágeis com SCRUM.
+
+Processo de Desenvolvimento
+-Concepção
+-Análise & Design
+-Desenvolvimento
+-Teste
+-Implatação
+
+>>> Tradiciona ou Waterfall:
+Só permite que o projeto avance quando uma fase está interinamente completa. (processo que demora muito e com muitos ajustes devido expectativa, realizada e atualização).
+-Escopo definido na fase inicial do projeto (Preditivo)
+-Projeto é controlado por fases e marcos.
+-Cliente só vê o software funcionado na fase final do Projeto
+-Resistência a Mudanças.
+
+	Ágil:
+Software construído por partes (incremental) e cada parte executa-se em um ciclo (interativo).
+-Escopo definido ao longo do Projeto (Adaptativo).
+-Projeto é controlado por duncionalidades entregues.
+-Cliente pode ver parte do Software funcionnado na parte inicial do Projeto.
+-Mudanças constantes de acordo com feedbacks contínuos.
+
+	O que é ser Ágil?
+-Rapidez (mudança e desembaraço;
+-Fazer coisas complexas de forma simples;
+-Equipe comprometida com os objetivos;
+-Maior valor para o cliente.
+Ter capacidade de responder rapidamente a mundaças.
+
+-- Scrum é um dos frameworks de gerenciamento de projetos ágeis;
+---Projetos usado equipes pequenas e multitidiciplinares produzem os melhores resultados.
+
+	Pilates do SCRUM
+Tranparência, Inspeção e Adapatação.
+-Conversar mais e escrever menos;
+-Demonstrat o Software constantemente aos usuários e obter feedbacks constantes;
+-Requisitos mudam ao longo do tempo;
+-Aprenser progressivamente com o uso do software.
+
+	Características do time SCRUM:
+-Equipes capazes de se auto-organizarem;
+-As tarefas são do time e todos são responsáveis;
+-Forte comprometimento com os resultados.
+
+	Papéis e Responsabilidade do time SCRUM:
+
+>>> PRODUCT OWNER (PO)
+-Representate da áre de Negócios;
+-PO não é um comitê;
+-Define as funcionalidades do software (product Backog);
+-Prioriza as funcionalidades de acordo com o valor do negócio;
+-Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+>>> SCRUM MASTER (SM)
+-Garantir o uso correto do SCRUM;
+-Scrum Master não é Gerente de Projetos;
+-Age como facilitador;
+-Auxilia o Product Owner no planejamento e estimativas do Backlog;
+-Auxilia a  equipe a remover impedimentos;
+-Treina o time em autogerenciamento e interdisciplinaridade.
+
+>>> TIME DE DESENVOLVIMENTO (DEV) - de 3 a 9 pessoas.
+-Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+>>> Time Box - Tempo máximo para fazer uma cerimônia ou Sprint (corrida, arrancada)
+Sprint - é o principal evento do SCRUM, 1 Sprint tem duração de 30 dias corridos ou menos, definido pelo TIME.
+
+-Planejamento da Sprint.(Time Box de 8h (Sprint 30dias))
+
+-Reuniões Diárias (Daily Meeting).(Time-Box: 15minutos).(ontem, hoje e dificuldades)
+
+-Revisão da Sprint (Review).(time Box4h(Sprint 30 dias). Time DEV apresenta para o PO o trabalho feito.
+
+-Retorspectiva da Sprint.(Time BOX3h(sprint 30 dias) - Reunião da equipe para Lições Aprendidas - Transparência.
+
+-Refinamento acontece um passo anres da Planning.
+
+-Review é para verificar se a demanda agraga valor ao negócio.
+
+	Escrever uma Estória
+.Nome da Estória
+.Descrição da Estória (Eu, Como, Quero, Quando)
+.Regras de Negócio (separar Regras de Front-End de Regaras de Back-End)
+.Tela (link ou imagem das telas a serm desenvolvidas)
+.KPI (quais os objetivos/valor a estória precisa atindir)
+.Tagueamento (como a estória será "Tagueada" para pode mensurar os KPI)
+.Critérios de Aceite (qual o Passo a Passo de todos os Caminhos felizes possíveis e estória deve cumprir para que ela seja considerada aceita).
+
+--- Product Backlog é composto por Épico e Estória.
+--> Estória VS TAREFAS
+-Estória é um conjunto de tarefas
+-Épico é um conjunto de Estórias.
+
+	Estória é uma tarefa descrita em nível de negócio.
+
+	Tarefa é um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a Estória.
+
+	Critério de Aceite.
+- É uma lista de critérios que precisam ser alcanlados para que a User Story atenda os requisitos do usuário e seja aceita pelo Product Owner.
+- Os Critérios de aceitação tem o objetivo de: definir limites para as user stories o P.O. a detalhar em alto nível o que é necessário para entregar ao cliente.
+
+- Critério de Aceite - é uma lista de critérios que para que a estória atenda ao requisitos do cliente.
+
+- Planning Poker - uma atividade de mensuração do esforço e complexidade das taredas ou das estórias.
+
+- Stakeholder é uma pessoa ou um grupo que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização.

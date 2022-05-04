@@ -1,0 +1,55 @@
+cdIntrudução de Git e ao GitHub.
+
+(Linus Torvalds - Criador do LINUX)
+
+--> Git, é um sistema software de monitoramento de (SISTEMA DISTRIBUÍDO SEGURO).
+
+--> Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples. Com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" e pode ser convertido facilmente para HTML.
+
+--> Git Hub é uma empresa da Microsoft
+Comandos do GIT.
+- git init - Criando um repositório
+- git add
+- git commit
+CD (Windows e UNIX)
+DIR ou ls- Mostrar/Listar todos diretórios
+ls -a      Mostra arquivos ocultos.
+CD\        Volta ao diretório raiz (Ex. C:)
+CD..       Retorna um diretório
+CLS        Limpa o terminla no Windows 
+echo hello > nome.txt - Criar um arquipo.
+mkdir - Criar uma pasta
+
+del - desinstala todo conteudo
+
+del /rmdir /S /Q ou rm -rf- comando usado para excluir o diretório.
+
+--> SHA1 - Arquivo de enccriptação.
+A sigle SHA significa Secure Hash Algorithm (algoritimo de Hash Seguro), é um conjunto de funções hash criptográficas projetas pela NSA(Agência de Segurança Nacional dos EUA). Gera um conjunto de chracteres indenticicador de 40 dígitos.
+
+--> Chaves SSH e TOKENS.
+
+Chave SSH - Conecção segura e encripitografada.
+
+<< -- >>
+Ciclos de estagios.
+Untracked - Criação de Arquivo, antes do GIT saber do arquivo.
+Unmodified - Arquivo original.
+Modified - Arquivo modificado
+Staged - Se preparando para fazer parte do Commit (atrás dos bastidores).
+Commit - gera uma foto e retornma "Unmodified", aguardando novas modificações.
+-------------------------------------------------
+GitHub - Servidor - REMOTE REPOSITORY
+Git - Ambiente de desenvolvimento.
+WORKING DIRECTORY - STAGING AREA - LOCAL REPOSITORY
+----------------------------------------------------
+Comandos no GitHub
+Alterar as configurações (git config --global --unset user.email // depois // git config --global user.email "romano.mendanha@gmail.com")
+
+
+Repositório don GitHub(git remot add origin link do GitHub)
+
+Empurrar arquivo repositório local para repositório virtual(git push origin master).
+-----------------------------------------------------
+02/05/2022
+Criação de Repositório no GitHub.

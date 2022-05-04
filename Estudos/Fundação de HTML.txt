@@ -1,0 +1,211 @@
+Ferramenta de publicação na internet são chamadas de clientes FTP (File Transfer Protocol) - Protocolo de transferéncia de arquivo.
+
+==> Desenvolvedor web e autor web.
+Ou simplesmente desenvolvedor e autor é todos aquele que desenvolve ou cria documentos para a web escreve marcação e/ou programação pra web em geral.
+
+==> Editor
+Editor é um software usado pelo desenvolvedor para escerver a marcação ou programa de um documento para web. Existem editores para desenvolvedor HTML, para PHP, para CSS e para outras tecnologias.
+
+==> Renderização
+REnderizar: dix-se que um navegador (ou um dispositivo de usuario ualquer) renderiza um documento web quando transforma a marcação HTML do documento em algo capaz de ser lido e entendido pelo usuário. Quando abrirmos uma página de um site, podemos vêla na tela do computador porque o navegador redenrizou a página para nós.
+
+==> Código-fonte.
+Navegadores, quando rederizam um documento, oferecem uma funcionalidade que permite visualizar a marcação HTML criada pelo autor e que foi utilizada para desenvolver a página. Nesse contexto, emprega o termo código-fonte como sinônimo da marcação HTML da página.
+
+==><== TAGS
+h1, h2, p - São elementos
+Temos Tributo e valor do atributo.
+
+Estrutura básica do HTML
+<1--comentário--> - Forma de comentar.
+
+<!DOCTYPE html> - Informa o tipo de documento que é HTML
+
+<html lang="pt-br"> - Informa o edioma que o documento foi escrito.
+
+<head> - Elemento titulo, nome do autor, resumo, utilizado pelo mecanismo de busca do GOOGLE. Link para o CSS...
+<head>
+ <title>titulo</title>
+ <meta charset="utf-8">
+</head>
+
+<meta> - Se destina a fornecer informações adicionais sobre o documento, tais como a codificação de caracteres, o nome do autor do documento e outras.
+
+<bodt></body> - corpo, todo o conteudo será exibido/renderizado pelo navegador.
+
+<p> - É do tipo nível de bloco e se destina a marcar parágragos.
+<a> - Elemento do tipo inline e se destina a marcar links.
+<ul> e <li> - São do tipo de nível de bloco e se destina a marcar listas que são chamadas de listas não ordenadas.
+<ol> e <li> - São do tipo nível de bloco e se destinam a marcar listas que são chamadas de listas ordenadas.
+
+-------------------------------------------------------------------------
+-> Elementos de linha podem conter outros elementos de linha dependendo da categoria que ele se encontra.
+-> Elementos de linha nuda podem conter elementos de de bloco.
+-> Elementos de bloco sempre podem conter elementos de linha.
+-> Elementos de bloco podem conter elementos de blocos
+-------------------------------------------------------------------------
+CATEGORIAS
+Elementos podem ou não fazer parte de um grupo de elementos com caracteristicas.
+*Metadata content
+*Flow content
+*Sectioning content
+*Heading content
+*Phrasing content
+*embedded content
+*Interactive content
+-------------------------------------------------------------------------
+METADATA CONTENT
+OS elementos que compõe a categoria Metadata são:
+*base
+*command
+*meta
+*noscript
+*script
+*style
+*title
+-------------------------------------------------------------------------
+FLOW CONTENT
+A maioria dos elementos utilizados no body e aplicação são categorizados como Flow Content.
+*a
+*abbr
+*address
+*area (se for um decendente de um elemento de mapa)
+*article
+*aside
+*audio
+*b
+*bdo
+*blockquote
+*br
+*button
+*canvas
+*cite
+*code
+*command
+*datalist
+*del
+*details
+*dfn
+*dl
+*em
+*embed
+dieldset
+*figure
+*footer
+*form
+*h1 - *h2 - *h3 - *h4 - *h5 - *h6
+*hgroup
+*header
+*hr
+*i
+*iframe
+*img
+*input
+*ins
+*kbd
+*keygen
+*label
+*link (se o atributo itemprop for utilizado)
+*map
+*mark
+*menu
+*meta (se o atributo itemprop for utilizado)
+*meter
+*nav
+*noscript
+*object
+*ol
+*output
+*p
+*pre
+*progress
+*q
+*ruby
+*samp
+*script
+*section
+*select
+*small
+*span
+*strong
+*style (se o atributo scoped for utilizado)
+*sub
+*sup
+*svg
+*table
+*textarea
+*time
+*ul
+*var
+*video
+*wbr
+*Text
+-------------------------------------------------------------------------
+SECTIONING CONTENT
+Estes elementos definem um grupo de cabeçalhos e rodapés.
+*article
+*aside
+*nav
+*section
+-------------------------------------------------------------------------
+HEADING CONTENT
+Os elementos da cartegoria Heading definem uma seção de cabeçalho, que podem estar contidos em um elemento na caregoria Sectioning.
+*h1 - *h2 - *h3 - *h4 - *h5 - *h6 - *hgroup
+-------------------------------------------------------------------------
+PHRASING CONTENT
+Fazem parte desta categoria elementos que marcam o texto do documento, bem como os elementos que marcam este texto dentro do elemento de parágrafo.
+*a
+*abbr
+*are (se ele for desdendente de um elemento de mapa)
+*audio
+*b
+*bdo
+*br
+*button
+*canvas
+*cite
+*code
+*command
+*datalist
+*del (se ele contiver um elemento da caregoria de Phrasing)
+*dfn
+*em
+*embed
+*i
+*iframe
+*img
+*input
+*ins (se ele contiver um elemento da categoria de Phrasing)
+*kdd
+*keygen
+*labeç
+*link (se o atributo itemprop for utilizado)
+*map (se apenas ele contiver um elemento da caregoria de Phrasing)
+*mark
+*math
+*meta (se o atributo itemprop for utilizado)
+*meter
+*noscript
+*object
+*output
+*progress
+*q
+*ruby
+*samp
+*script
+*select
+*small
+*span
+*strong
+*sub
+*sup
+*svg
+*textarea
+*time
+*var
+*video
+*wbr
+*Text
+*
+*
+*
